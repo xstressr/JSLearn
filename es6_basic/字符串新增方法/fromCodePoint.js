@@ -1,0 +1,1 @@
+console.log(String.fromCharCode(0x2BB7));

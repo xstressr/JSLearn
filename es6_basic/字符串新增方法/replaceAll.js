@@ -1,0 +1,1 @@
+console.log('aabbcc'.replace('b','_'));
